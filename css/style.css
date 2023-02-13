@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+
+body {
+  background-color: #e5edf6;
+  font-family: 'rubik', sans-serif;
+}
+
+/* Alinea el texto del encabezado al centro. */
+ 
+h4 {
+  text-align: center;
+}
+button{
+  border-radius: 3px;
+  width: 100px;
+}
+
+.contenedor {
+  width: 800px;
+  margin: 90px auto;
+  color: black;
+  border: 1px gray solid;
+  border-radius: 5px;  
+  padding: 45px 45px;
+}
